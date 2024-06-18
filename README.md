@@ -43,4 +43,3 @@ A heatmap displays the correlation between funding amounts and the number of inv
 The analysis provides valuable insights into the startup funding landscape, revealing trends and patterns in investments, popular sectors, and geographic hotspots. These insights can guide future startups, investors, and policymakers in making informed decisions.
 
 
-If you need to include images or any other files, make sure to upload them to the appropriate directories and reference them correctly in the `README.md`.
